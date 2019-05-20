@@ -1,0 +1,16 @@
+body {
+    background: #00b09b;  /* fallback for old browsers */
+    background: linear-gradient(to right, #96c93d, #00b09b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+}
+h1 {
+    text-align:center;
+    color:white;
+    text-shadow:2.5px 2px #1a077a;
+}
+p {
+    font-size:20px;
+    text-align:center;
+    color: aliceblue;
+    text-shadow:2px 2px blue;
+}
